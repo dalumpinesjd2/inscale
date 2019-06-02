@@ -1,0 +1,155 @@
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T02:39:17+0800 #6900] config.log: Creating metadata storage
+I, [2019-06-03T02:39:17+0800 #6900] config.log: Starting Scenario: features_1_basic.feature_8-Example_Feature-example01_-_Spritecloud_search
+I, [2019-06-03T02:39:18+0800 #6900] config.log: Starting Scenario: features_1_basic.feature_14-Example_Feature-example02_-_Going_to_a_search_result
+I, [2019-06-03T02:39:18+0800 #6900] config.log: Starting Scenario: features_1_basic.feature_26-Example_Feature-example03_-_checking_multiple_pages_for_the_logo-blog
+I, [2019-06-03T02:39:18+0800 #6900] config.log: Starting Scenario: features_1_basic.feature_27-Example_Feature-example03_-_checking_multiple_pages_for_the_logo-home
+I, [2019-06-03T02:39:18+0800 #6900] config.log: Starting Scenario: features_1_basic.feature_28-Example_Feature-example03_-_checking_multiple_pages_for_the_logo-about-us
+I, [2019-06-03T02:39:18+0800 #6900] config.log: Starting Scenario: features_1_basic.feature_29-Example_Feature-example03_-_checking_multiple_pages_for_the_logo-testing
+I, [2019-06-03T02:39:18+0800 #6900] config.log: Starting Scenario: features_1_basic.feature_30-Example_Feature-example03_-_checking_multiple_pages_for_the_logo-functional-testing
+I, [2019-06-03T02:39:18+0800 #6900] config.log: Starting Scenario: features_1_basic.feature_39-Example_Feature-example_04_-_confirming_there_is_a_no_results_page
+D, [2019-06-03T02:39:18+0800 #6900] config.log: Storage 'metadata' is empty
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+I, [2019-06-03T02:39:42+0800 #10588] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T02:39:42+0800 #10588] config.log: Storage 'metadata' is empty
+D, [2019-06-03T02:39:42+0800 #10588] config.log: Creating metadata storage
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+I, [2019-06-03T02:45:01+0800 #9228] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T02:45:01+0800 #9228] config.log: Storage 'metadata' is empty
+D, [2019-06-03T02:45:01+0800 #9228] config.log: Creating metadata storage
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+I, [2019-06-03T02:47:20+0800 #9684] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T02:47:20+0800 #9684] config.log: Storage 'metadata' is empty
+D, [2019-06-03T02:47:20+0800 #9684] config.log: Creating metadata storage
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+I, [2019-06-03T02:47:29+0800 #6620] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T02:47:30+0800 #6620] config.log: Storage 'metadata' is empty
+D, [2019-06-03T02:47:29+0800 #6620] config.log: Creating metadata storage
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T02:51:14+0800 #7028] config.log: Creating metadata storage
+I, [2019-06-03T02:51:14+0800 #7028] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T02:51:14+0800 #7028] config.log: Storage 'metadata' is empty
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T02:52:21+0800 #300] config.log: Creating metadata storage
+I, [2019-06-03T02:52:21+0800 #300] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+E, [2019-06-03T02:52:47+0800 #300] config.log: Error in find - Cannot find elements with selectors: [{:text_field=>{:name=>"s"}}]
+With the options: {:pick=>:first, :mode=>:match_one}
+---[ https://www.google.com/ ]---
+D, [2019-06-03T02:52:48+0800 #300] config.log: Screenshot saved: ./screenshots/190603_025247_To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark_.png
+D, [2019-06-03T02:52:48+0800 #300] config.log: Closing all browsers
+D, [2019-06-03T02:52:48+0800 #300] config.log: Closing browser after exit event trigger: #<Watir::Browser:0x0000000004d0f1c0>
+D, [2019-06-03T02:52:50+0800 #300] config.log: Writing storage to: ./storage/metadata.json
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T02:54:46+0800 #10384] config.log: Creating metadata storage
+I, [2019-06-03T02:54:46+0800 #10384] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T02:54:55+0800 #10384] config.log: Screenshot saved: ./screenshots/190603_025455_To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark_.png
+D, [2019-06-03T02:54:55+0800 #10384] config.log: Closing all browsers
+D, [2019-06-03T02:54:55+0800 #10384] config.log: Closing browser after exit event trigger: #<Watir::Browser:0x0000000004c51b98>
+D, [2019-06-03T02:54:56+0800 #10384] config.log: Writing storage to: ./storage/metadata.json
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T02:55:13+0800 #10496] config.log: Creating metadata storage
+I, [2019-06-03T02:55:13+0800 #10496] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T02:55:21+0800 #10496] config.log: Screenshot saved: ./screenshots/190603_025521_To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark_.png
+D, [2019-06-03T02:55:21+0800 #10496] config.log: Closing all browsers
+D, [2019-06-03T02:55:21+0800 #10496] config.log: Closing browser after exit event trigger: #<Watir::Browser:0x0000000004d19a08>
+D, [2019-06-03T02:55:21+0800 #10496] config.log: Writing storage to: ./storage/metadata.json
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T02:59:10+0800 #4168] config.log: Creating metadata storage
+I, [2019-06-03T02:59:10+0800 #4168] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T02:59:18+0800 #4168] config.log: Screenshot saved: ./screenshots/190603_025917_To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark_.png
+D, [2019-06-03T02:59:18+0800 #4168] config.log: Closing all browsers
+D, [2019-06-03T02:59:18+0800 #4168] config.log: Closing browser after exit event trigger: #<Watir::Browser:0x0000000004ce1bf8>
+D, [2019-06-03T02:59:18+0800 #4168] config.log: Writing storage to: ./storage/metadata.json
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T02:59:54+0800 #4772] config.log: Creating metadata storage
+I, [2019-06-03T02:59:54+0800 #4772] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T03:00:00+0800 #4772] config.log: Could not clear searchbox
+D, [2019-06-03T03:00:02+0800 #4772] config.log: Closing all browsers
+D, [2019-06-03T03:00:02+0800 #4772] config.log: Closing browser after exit event trigger: #<Watir::Browser:0x0000000004cb5af8>
+D, [2019-06-03T03:00:02+0800 #4772] config.log: Writing storage to: ./storage/metadata.json
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T03:08:05+0800 #4772] config.log: Creating metadata storage
+I, [2019-06-03T03:08:05+0800 #4772] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T03:08:10+0800 #4772] config.log: Could not clear searchbox
+D, [2019-06-03T03:08:12+0800 #4772] config.log: Closing all browsers
+D, [2019-06-03T03:08:12+0800 #4772] config.log: Closing browser after exit event trigger: #<Watir::Browser:0x0000000004da42e8>
+D, [2019-06-03T03:08:13+0800 #4772] config.log: Writing storage to: ./storage/metadata.json
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T03:12:52+0800 #8416] config.log: Creating metadata storage
+I, [2019-06-03T03:12:52+0800 #8416] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T03:13:00+0800 #8416] config.log: Could not clear searchbox
+D, [2019-06-03T03:13:02+0800 #8416] config.log: Screenshot saved: ./screenshots/190603_031300_To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark_.png
+D, [2019-06-03T03:13:02+0800 #8416] config.log: Closing all browsers
+D, [2019-06-03T03:13:02+0800 #8416] config.log: Closing browser after exit event trigger: #<Watir::Browser:0x0000000004c5ca48>
+D, [2019-06-03T03:13:02+0800 #8416] config.log: Writing storage to: ./storage/metadata.json
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T03:15:03+0800 #6080] config.log: Creating metadata storage
+I, [2019-06-03T03:15:03+0800 #6080] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T03:15:09+0800 #6080] config.log: Could not clear searchbox
+D, [2019-06-03T03:15:19+0800 #6080] config.log: Caught timeout: timed out after 10 seconds
+E, [2019-06-03T03:15:20+0800 #6080] config.log: Error in wait - timed out after 10 seconds with selectors: [{:xpath=>"//h3[contains(@class, 'LC20lb') and contains(text(),\"https://www.topdanmark.dk\")]", :filter_by=>:present?}]
+---[ https://www.google.com/search?source=hp&ei=SCD0XNLhJJCVwgP9tb_ADw&q=topdanmark&oq=topdanmark&gs_l=psy-ab.12...286.326..372...0.0..0.0.0.......0....1..gws-wiz.....0. ]---
+D, [2019-06-03T03:15:20+0800 #6080] config.log: Screenshot saved: ./screenshots/190603_031520_To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark_.png
+D, [2019-06-03T03:15:20+0800 #6080] config.log: Closing all browsers
+D, [2019-06-03T03:15:20+0800 #6080] config.log: Closing browser after exit event trigger: #<Watir::Browser:0x00000000045a37d8>
+D, [2019-06-03T03:15:21+0800 #6080] config.log: Writing storage to: ./storage/metadata.json
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T03:17:25+0800 #7088] config.log: Creating metadata storage
+I, [2019-06-03T03:17:25+0800 #7088] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T03:17:31+0800 #7088] config.log: Could not clear searchbox
+D, [2019-06-03T03:17:42+0800 #7088] config.log: Caught timeout: timed out after 10 seconds
+E, [2019-06-03T03:17:42+0800 #7088] config.log: Error in wait - timed out after 10 seconds with selectors: [{:xpath=>"//h3[contains(@class, 'LC20lb') and contains(text(),\"https://www.topdanmark.dk\")]", :filter_by=>:present?}]
+---[ https://www.google.com/search?source=hp&ei=1yD0XMmmBImBvwS92JCoBQ&q=topdanmark&oq=topdanmark&gs_l=psy-ab.12..0l10.521.565..646...0.0..0.58.208.4......0....1..gws-wiz.....0.zT9CYFiMGFc ]---
+D, [2019-06-03T03:17:43+0800 #7088] config.log: Screenshot saved: ./screenshots/190603_031742_To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark_.png
+D, [2019-06-03T03:17:43+0800 #7088] config.log: Closing all browsers
+D, [2019-06-03T03:17:43+0800 #7088] config.log: Closing browser after exit event trigger: #<Watir::Browser:0x00000000044b37d8>
+D, [2019-06-03T03:17:43+0800 #7088] config.log: Writing storage to: ./storage/metadata.json
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T03:20:00+0800 #7984] config.log: Creating metadata storage
+I, [2019-06-03T03:20:00+0800 #7984] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T03:20:05+0800 #7984] config.log: Could not clear searchbox
+D, [2019-06-03T03:20:16+0800 #7984] config.log: Caught timeout: timed out after 10 seconds
+E, [2019-06-03T03:20:16+0800 #7984] config.log: Error in wait - timed out after 10 seconds with selectors: [{:xpath=>"//h3[contains(@class, 'LC20lb') and contains(text(),\"https://www.topdanmark.dk\")]", :filter_by=>:present?}]
+---[ https://www.google.com/search?source=hp&ei=cSH0XPqpL6W1mgem35SIAw&q=topdanmark&oq=topdanmark&gs_l=psy-ab.12..0l10.460.504..581...0.0..0.56.194.4......0....1..gws-wiz.....0.wpslV0pSTbg ]---
+D, [2019-06-03T03:20:16+0800 #7984] config.log: Could not clear searchbox
+D, [2019-06-03T03:20:17+0800 #7984] config.log: Closing all browsers
+D, [2019-06-03T03:20:17+0800 #7984] config.log: Closing browser after exit event trigger: #<Watir::Browser:0x0000000004d98ee8>
+D, [2019-06-03T03:20:17+0800 #7984] config.log: Writing storage to: ./storage/metadata.json
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T03:30:51+0800 #9980] config.log: Creating metadata storage
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T03:31:30+0800 #10236] config.log: Creating metadata storage
+I, [2019-06-03T03:31:30+0800 #10236] config.log: Starting Scenario: features_inscale.feature_6-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark
+D, [2019-06-03T03:31:37+0800 #10236] config.log: Could not clear searchbox
+D, [2019-06-03T03:31:48+0800 #10236] config.log: Caught timeout: timed out after 10 seconds
+E, [2019-06-03T03:31:48+0800 #10236] config.log: Error in wait - timed out after 10 seconds with selectors: [{:xpath=>"//h3[contains(@class, 'LC20lb') and contains(text(),\"https://www.topdanmark.dk\")]", :filter_by=>:present?}]
+---[ https://www.google.com/search?source=hp&ei=JCT0XJbAKZ2TwgOBrZOQBQ&q=topdanmark&oq=topdanmark&gs_l=psy-ab.12..0l10.217.265..341...0.0..1.76.198.3......0....1..gws-wiz.....0.m3puS2MM9d8 ]---
+D, [2019-06-03T03:31:49+0800 #10236] config.log: Screenshot saved: ./screenshots/190603_033148_To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark_.png
+D, [2019-06-03T03:31:49+0800 #10236] config.log: Closing all browsers
+D, [2019-06-03T03:31:49+0800 #10236] config.log: Closing browser after exit event trigger: #<Watir::Browser:0x0000000004c8b550>
+D, [2019-06-03T03:31:49+0800 #10236] config.log: Writing storage to: ./storage/metadata.json
+Logging to './logs/config.log' initialized with level INFO.
+Logging to './logs/config.log' initialized with level INFO.
+D, [2019-06-03T03:31:56+0800 #10924] config.log: Creating metadata storage
+I, [2019-06-03T03:31:56+0800 #10924] config.log: Starting Scenario: features_inscale.feature_12-To_Ensure_that_when_I_search_keyword_topdanmark_at_google_the_first_record_that_is_displayed_to_me_is_not_other_than_topdanmark-To_ensure_that_I_can_access_https_www.topdanmark.dk_from_various_browser_i.e._IE_Chrome_etc
+D, [2019-06-03T03:32:06+0800 #10924] config.log: Closing all browsers
+D, [2019-06-03T03:32:06+0800 #10924] config.log: Closing browser after exit event trigger: #<Watir::Browser:0x0000000004473d40>
+D, [2019-06-03T03:32:06+0800 #10924] config.log: Writing storage to: ./storage/metadata.json
